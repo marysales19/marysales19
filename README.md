@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marysales19
 - 👀 I’m interested in learn more about programming
-- 🌱 I’m currently learning  python3
 - 💻 I'm studying computer engineering
 
 <!---
